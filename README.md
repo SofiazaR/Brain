@@ -1,0 +1,2 @@
+# Brain
+ My obsidian notes
